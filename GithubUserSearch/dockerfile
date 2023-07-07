@@ -1,0 +1,4 @@
+FROM maven
+COPY src /src
+WORKDIR /src
+RUN mvn clean test

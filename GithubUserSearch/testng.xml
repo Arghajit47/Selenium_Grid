@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="/home/arghas/Selenium Grid/GithubUserSearch/src/test/java/org/githubUserSearch/testFile.java">
+        <classes>
+            <class name="org.githubUserSearch.testFile">
+            </class>
+        </classes>
+    </test>
+</suite>
